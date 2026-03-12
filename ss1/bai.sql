@@ -1,14 +1,14 @@
 USE quanly;
 
-DROP TABLE IF EXISTS Class;
+DROP TABLE IF EXISTS class;
 DROP TABLE IF EXISTS Teacher;
 
-CREATE TABLE Class (
+CREATE TABLE class (
  id INT PRIMARY KEY,
  name VARCHAR(50)
 );
 
-CREATE TABLE Teacher (
+CREATE TABLE teacher (
  id INT PRIMARY KEY,
  name VARCHAR(50),
  age INT,
