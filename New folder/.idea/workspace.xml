@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e696c311-baca-4882-b3fc-f735c262ca43" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Casestudy/create_database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casestudy/insert_data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casestudy/query_10_15.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casestudy/query_15_20.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casestudy/query_2_5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casestudy/query_5_10.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2/bai1_quanly_csdl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ss2/bai1_quanly_csdl.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2/bai2_quanlybanhang.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ss2/bai2_quanlybanhang.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BNMyKTZh1iWzJ6JU8atfmaMAdN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.bootrap.html.executor": "Run",
+    "JavaScript Debug.ss7_bai1.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e696c311-baca-4882-b3fc-f735c262ca43" name="Changes" comment="" />
+      <created>1774325327582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774325327582</updated>
+      <workItem from="1774325328841" duration="2665000" />
+      <workItem from="1774368810441" duration="274000" />
+      <workItem from="1774533862518" duration="3905000" />
+      <workItem from="1774540149758" duration="1880000" />
+      <workItem from="1774616277895" duration="2911000" />
+      <workItem from="1774860058887" duration="5023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

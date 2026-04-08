@@ -1,0 +1,17 @@
+USE quanly;
+
+DROP TABLE IF EXISTS class;
+DROP TABLE IF EXISTS Teacher;
+
+CREATE TABLE class (
+ id INT PRIMARY KEY,
+ name VARCHAR(50)
+);
+
+CREATE TABLE teacher (
+ id INT PRIMARY KEY,
+ name VARCHAR(50),
+ age INT,
+ country VARCHAR(50)
+);
+SHOW TABLES;

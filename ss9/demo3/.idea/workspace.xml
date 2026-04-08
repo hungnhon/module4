@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76cc5d3a-52cc-4038-98c6-a1f629a4f7f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ss10_customer/ss10_customer/src/main/java/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_customer/ss10_customer/src/main/java/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_customer/ss10_customer/src/main/webapp/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_customer/ss10_customer/src/main/webapp/images/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_customer/ss10_customer/src/main/webapp/images/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_customer/ss10_customer/src/main/webapp/images/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss10_customer/ss10_customer/src/main/webapp/images/img5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Casestudy/create_database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Casestudy/insert_data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Casestudy/query_10_15.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Casestudy/query_15_20.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Casestudy/query_2_5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Casestudy/query_5_10.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss2/bai1_quanly_csdl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss2/bai1_quanly_csdl.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss2/bai2_quanlybanhang.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss2/bai2_quanlybanhang.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/main/java/org/example/demo1/DiscountServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/main/java/org/example/demo1/DiscountServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo2/src/main/java/org/example/demo2/Buoi9_WebOverview.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/src/main/java/org/example/demo2/Buoi9_WebOverview.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="18" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hungnhon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hungnhon/module4.git",
+    "accountId": "632c4c3a-8bb5-41be-8d63-ce01794939a2"
+  }
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3BiQUpilQbbAmq4RvAjL1h63Hsh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build demo3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Tomcat Server.Tomcat 10.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 10" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Gradle : org.example : demo3-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___org_example___demo3_1_0_SNAPSHOT_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d1621fa5-c9ba-4ba0-8149-d370f35a76d0" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : demo3-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76cc5d3a-52cc-4038-98c6-a1f629a4f7f1" name="Changes" comment="" />
+      <created>1774969428761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774969428761</updated>
+      <workItem from="1774969432890" duration="2453000" />
+      <workItem from="1775442661478" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
